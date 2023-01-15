@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZoyaBukhantseva/goit-react-hw-01-components/static/css/main.e862a770.css",
+    "main.js": "/ZoyaBukhantseva/goit-react-hw-01-components/static/js/main.daa1b120.js",
+    "index.html": "/ZoyaBukhantseva/goit-react-hw-01-components/index.html",
+    "main.e862a770.css.map": "/ZoyaBukhantseva/goit-react-hw-01-components/static/css/main.e862a770.css.map",
+    "main.daa1b120.js.map": "/ZoyaBukhantseva/goit-react-hw-01-components/static/js/main.daa1b120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e862a770.css",
+    "static/js/main.daa1b120.js"
+  ]
+}
