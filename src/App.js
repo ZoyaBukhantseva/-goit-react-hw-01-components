@@ -11,7 +11,7 @@ import transactions from '..//src/data/transactions.json';
 const App = () => (
   <>
     <Profile
-      name={user.name}
+      name={user.username}
       tag={user.tag}
       location={user.location}
       avatar={user.avatar}
